@@ -84,9 +84,6 @@ The following python libraries are required.
 ### Notes:
 1. Limitation: only built with windows in mind
 
-<!-- MAKING CHANGES -->
-## Making Changes
-
 <!-- ROADMAP -->
 ## Roadmap
 
