@@ -114,4 +114,4 @@ Not to be distributed to anyone outside EDA solutions.
 
 Henry Frankland - [@hfrank](https://www.linkedin.com/in/henry-frankland-asic/) - henryfrankland@eda-solutions.com - henry@franklandhome.co.uk
 
-Project Link: [launch_putty](https://github.com/EDA-Solutions-Limited/launch_putty.git)
+Project Link: [clipboard_to_stroke](https://github.com/EDA-Solutions-Limited/clipboard_to_stroke.git)
