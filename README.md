@@ -66,9 +66,15 @@ To get started with using this code, ensure you have python 3 installed.
 ### Prerequisites
 
 The following python libraries are required.
+
+*pyclip
+*pyautogui
+*logging
+*sys
 *tbc
   ```sh
-  tbc
+  pip install pyclip
+  pip install pyautogui
   ```
 
 ### Installation
