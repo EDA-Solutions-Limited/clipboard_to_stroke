@@ -67,11 +67,11 @@ To get started with using this code, ensure you have python 3 installed.
 
 The following python libraries are required.
 
-*pyclip
-*pyautogui
-*logging
-*sys
-*tbc
+* pyclip
+* pyautogui
+* logging
+* sys
+
   ```sh
   pip install pyclip
   pip install pyautogui
