@@ -2,21 +2,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-
-  <h3 align="center">clipboard_to_stroke</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/EDA-Solutions-Limited/clipboard_to_stroke"><strong>Explore the project »</strong></a>
-    <br />
-    <br />
-    ·
-    <a href="https://github.com/EDA-Solutions-Limited/launch_putty/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/EDA-Solutions-Limited/launch_putty/issues">Request Feature</a>
-  </p>
+  <a href="https://github.com/EDA-Solutions-Limited/clipboard_to_stroke"><strong>Explore the project »</strong></a>
+  <br />
+  <br />
+  <a href="https://github.com/EDA-Solutions-Limited/launch_putty/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/EDA-Solutions-Limited/launch_putty/issues">Request Feature</a>
 </p>
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -47,11 +39,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-HTML5 ssh terminals do not allow for copy and paste. There was no VNC to the machine and the RDP machine to access the linux server only had 2 CAL licenses always under use. when trying to upload files to the server via we-transfer using the wget command, the download links was over 1200 characters long. 
+HTML5 ssh terminals do not allow for copy and paste. There was no VNC to the machine. When trying to upload files to a server via we-transfer using the wget command, the download links was over 1200 characters long. 
 
-This script aims to keystroke strings in the clipboard
-
-
+This script aims to input keystrokes from strings in the clipboard.
 
 ### Built With
 
@@ -110,11 +100,11 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Not to be distributed to anyone outside EDA solutions. 
+MIT License
 
 <!-- CONTACT -->
 ## Contact
 
-Henry Frankland - [@hfrank](https://www.linkedin.com/in/henry-frankland-asic/) - henryfrankland@eda-solutions.com - henry@franklandhome.co.uk
+Support - github@eda-solutions.com
 
 Project Link: [clipboard_to_stroke](https://github.com/EDA-Solutions-Limited/clipboard_to_stroke.git)
